@@ -17,11 +17,11 @@ console.log(qemail);
 
 //funciones
 card1.onclick = function() {
-    window.location.href = "whatsapp.html";
+    window.location.href = "whatsapp";
 }
 
 card2.onclick = function() {
-    window.location.href = "facebook.html";
+    window.location.href = "facebook";
 }
 
 email.addEventListener('click', (e) => {
